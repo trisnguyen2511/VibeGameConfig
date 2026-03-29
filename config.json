@@ -1,7 +1,4 @@
 {
-  "version": "1.0.2",
-  "api_endpoint": "https://api.example.com",
-  "enable_maintenance": false,
-  "enable_maintenancess": false,
-  "theme": "dark"
+	GAME_DURATION: 30,
+	FIRST_PLAYER_NAME: "Beyby"
 }
